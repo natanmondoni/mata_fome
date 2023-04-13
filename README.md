@@ -4,7 +4,7 @@
 
 1.Problema de negócio
 
-A Curry Company visa conectar restaurantes, entregadores e pessoas com o objetivo de proporcionar satisfação a todos os envolvidos.
+A Mata fome visa conectar restaurantes, entregadores e pessoas com o objetivo de proporcionar satisfação a todos os envolvidos.
 
 Para ajudar o Mata Fome a obter uma visão completa de seus KPIs, podemos criar um painel abrangente que rastreia as principais métricas, como quantidade de restaurantes cadastrados, avaliação do restaurante, satisfação do cliente e classificar se o restaurante faz entrega. Para que o CEO possa construir algumas ideias simples nas suas tomadas de decisões.
 
